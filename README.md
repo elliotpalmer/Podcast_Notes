@@ -3,9 +3,9 @@ Place for me to keep my notes on podcasts, books, etc
 
 # Podcasts
 
-* Worklife with Adam Grant
+* [Worklife with Adam Grant](podcasts/work_life.md)
   - Ep 1: How to Love Criticism [Complete]
-  - Ep 2: The Daily Show's Secret to Creativity [In Progress]
+  - Ep 2: The Daily Show's Secret to Creativity [Complete]
 
 # Books
 
